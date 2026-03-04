@@ -1,12 +1,12 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: C3C Rushil Punukollu
 -- 
 -- Create Date: 03/02/2026 07:21:45 PM
 -- Design Name: 
 -- Module Name: sevenseg_decoder - Behavioral
--- Project Name: 
--- Target Devices: 
+-- Project Name: Lab 2
+-- Target Devices: Basys3
 -- Tool Versions: 
 -- Description: 
 -- 
